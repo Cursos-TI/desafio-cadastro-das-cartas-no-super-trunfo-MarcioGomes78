@@ -1,7 +1,5 @@
 #include <stdio.h>
-
-
-    
+  
 int main(){
     
     char estado;
@@ -64,7 +62,7 @@ int main(){
     printf("Digite o número de pontos turisticos: %d\n", num_pontos_turisticos);
     scanf("%d", &num_pontos_turisticos);
 
-    printf("##### SAIDA DE DADOS DA PRIMEIRA CARTA #####\n");
+    printf("##### SAIDA DE DADOS DA SEGUNDA CARTA #####\n");
 
     printf("Estado: %c\n", estado);
     printf("Carta: %s\n", codigo_da_carta);
